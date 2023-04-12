@@ -6,11 +6,15 @@ This is a project of Computer graphics where three types of season.
 
 
 To run this program You have to install openGL library.
-Go to the following link: Python Extension Packages for Windows - Christoph Gohlke (uci.edu) and download the files with names as below:
-PyOpenGL‑3.1.6‑cp3x‑cp3x‑win_amd64.whl
-PyOpenGL_accelerate‑3.1.6‑cp3x‑cp3x‑win_amd64.whl
+Go to the following link: 
+
+[Python Extension Packages for Windows - Christoph Gohlke (uci.edu)] and download the files with names as below:
+**PyOpenGL‑3.1.6‑cp3x‑cp3x‑win_amd64.whl
+**PyOpenGL_accelerate‑3.1.6‑cp3x‑cp3x‑win_amd64.whl
 when your python version is 3.x
 For example, if your python version is 3.6, replace 3x with 36.
+
+
 Then, 
 Open the PyCharm or MS VScode terminal (see figure) and run the following commands:
 pip install PyOpenGL-3.1.5-cp3x-cp3xm-win_amd64.whl
